@@ -40,6 +40,10 @@ npm install -g detox-cli
 npm install -g react-native-cli
 ```
 
+## Languages
+
+Both Dutch and English are supported. i18next has been used to make this possible.
+
 ## User Interface
 
 The User Interface has been built with components from the [react-native-alegrify-ui](https://www.npmjs.com/package/react-native-alegrify-ui) package. Take a look [here](https://dejakob.com/react-native-alegrify-ui) to read the docs.
