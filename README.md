@@ -1,11 +1,6 @@
-# Alegrify app (React Native)
+<img src="https://alegrify.com/logo-app.png" alt="Alegrify logo" height="100" />
 
-<a href="https://itunes.apple.com/app/alegrify/id1450090646" title="app store">
-  <img alt="app store" src="https://alegrify.com/apple_store.png" width="160" />
-</a>
-<a href="https://play.google.com/store/apps/details?id=com.alegrify" title="play store">
-  <img alt="play store" src="https://alegrify.com/google-play.png" width="160" />
-</a>
+# Alegrify app (React Native)
 
 Alegrify was a web service to improve your mental health by challenging your own thoughts.
 While the service is offline, the app can still be used, allthough all of the features that required networking have been removed.
@@ -58,3 +53,12 @@ Check out the links to have the images in their original formats.
 * https://www.pexels.com/photo/blonde-hair-blur-daylight-environment-214574/
 * https://www.pexels.com/photo/light-sky-space-abstract-40748/
 * https://www.pexels.com/photo/man-couple-people-woman-343/
+
+
+
+<a href="https://itunes.apple.com/app/alegrify/id1450090646" title="app store">
+  <img alt="app store" src="https://alegrify.com/apple_store.png" width="160" />
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.alegrify" title="play store">
+  <img alt="play store" src="https://alegrify.com/google-play.png" width="160" />
+</a>
