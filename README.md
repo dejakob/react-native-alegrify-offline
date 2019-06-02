@@ -7,12 +7,26 @@
   <img alt="play store" src="https://alegrify.com/google-play.png" width="160" />
 </a>
 
-<br />
+Alegrify was a web service to improve your mental health by challenging your own thoughts.
+While the service is offline, the app can still be used, allthough all of the features that required networking have been removed.
 
-<p>
-  Alegrify was a web service to improve your mental health by challenging your own thoughts.
-  While the service is offline, the app can still be used, allthough all of the features that required networking have been removed.
-</p>
+## Architecture
+
+The app has been built upon a basic react-redux architecture.
+
+### Actions
+
+[Take a look at all actions](https://github.com/dejakob/react-native-alegrify-offline/tree/master/src/store-actions)
+
+### Reducers
+
+There's obviously only one reducer but this combines several subreducers.
+[Take a look at all reducers](https://github.com/dejakob/react-native-alegrify-offline/tree/master/src/store-reducers)
+
+### Effects
+
+As Redux actions are always syncronous, some 'effects' have been added to guarantee support for asyncronous actions.
+[Take a look at all effects](https://github.com/dejakob/react-native-alegrify-offline/tree/master/src/store-fx)
 
 ## User Interface
 
