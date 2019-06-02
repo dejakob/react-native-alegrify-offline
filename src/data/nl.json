@@ -1,0 +1,38 @@
+{
+    "DASHBOARD": {
+        "WHATS_ON_YOUR_MIND": "Waar denk je aan?",
+        "WHAT_HAPPENED": "Wat gebeurde er?",
+        "ADD_THOUGHT": "Toevoegen",
+        "THOUGHT_THOUGHT": "Ik dacht...",
+        "THOUGHT_EVENT": "...omdat...",
+        "THOUGHT_CTA": "Reflecteer gedachte",
+        "EMPTY_TITLE": "Wat leuk je te zien",
+        "EMPTY_DESCRIPTION": "Dit is het begin van iets moois. Hier zul je jouw gedachtes kunnen zien en evalueren.",
+        "VALIDATION_ERRORS": {
+            "MOOD": "Kies een mood",
+            "SCORE": "Kies een score",
+            "THOUGHT": "Vergeet je gedachte niet",
+            "EVENT": "Schrijf aub wat er gebeurde"
+        },
+        "LOADING_TITLE": "Een ogenblikje",
+        "LOADING_PARAGRAPH": "We brengen even alles in orde",
+        "CONNECTION": {
+            "WANTS_TO_CONNECT": "{{ name }} zou graag met je connecteren. Wanneer je accepteert zal deze persoon al je gedachtes, reflecties,... kunnen lezen.",
+            "ACCEPT": "Accepteer",
+            "DECLINE": "Weiger"
+        }
+    },
+    "THOUGHT": {
+        "REFLECT": "Reflectie",
+        "RELIABILITY": "Geloofwaardigheid",
+        "REFLECT_CTA": "Reflecteer",
+        "CARD_TITLE": "Op {{ created_at }}, dacht ik",
+        "BECAUSE": "Omdat",
+        "EMPTY_TITLE": "Is dit wel zo?",
+        "EMPTY_PARAGRAPH": "Hier kun je reflecteren op deze gedachte",
+        "VALIDATION_ERRORS": {
+            "REFLECTION": "Vergeet je reflectie niet op te geven",
+            "RELIABILITY": "Hoe geloofwaardig lijkt de gedachte nu?"
+        }
+    }
+}

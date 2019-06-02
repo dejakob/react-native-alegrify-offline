@@ -1,0 +1,38 @@
+{
+    "DASHBOARD": {
+        "WHATS_ON_YOUR_MIND": "What's on your mind?",
+        "WHAT_HAPPENED": "What happened?",
+        "ADD_THOUGHT": "Add thought",
+        "THOUGHT_THOUGHT": "I was thinking...",
+        "THOUGHT_EVENT": "...because...",
+        "THOUGHT_CTA": "Reflect on thought",
+        "EMPTY_TITLE": "Nice to see you!",
+        "EMPTY_DESCRIPTION": "This is the beginning of something amazing. On this exact place, you'll be able to see your thoughts",
+        "VALIDATION_ERRORS": {
+            "MOOD": "Please select a mood",
+            "SCORE": "Please select a score",
+            "THOUGHT": "Please write a thought",
+            "EVENT": "Please write what happened"
+        },
+        "LOADING_TITLE": "Hang in there!",
+        "LOADING_PARAGRAPH": "We're setting up an amazing experience",
+        "CONNECTION": {
+            "WANTS_TO_CONNECT": "It seems like {{ name }} wants to connect with you. When you accept, this person will be able to see your thoughts, reflections,...",
+            "ACCEPT": "Accept",
+            "DECLINE": "Decline"
+        }
+    },
+    "THOUGHT": {
+        "REFLECT": "Reflection",
+        "RELIABILITY": "Reliability",
+        "REFLECT_CTA": "Reflect",
+        "CARD_TITLE": "On {{ created_at }}, I were thinking",
+        "BECAUSE": "Because",
+        "EMPTY_TITLE": "Is it tho?",
+        "EMPTY_PARAGRAPH": "Here you're able to reflect on this thought.",
+        "VALIDATION_ERRORS": {
+            "REFLECTION": "Please provide your reflection",
+            "RELIABILITY": "How reliable does this sound now?"
+        }
+    }
+}
