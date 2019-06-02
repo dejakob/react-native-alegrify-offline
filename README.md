@@ -28,6 +28,18 @@ There's obviously only one reducer but this combines several subreducers.
 As Redux actions are always syncronous, some 'effects' have been added to guarantee support for asyncronous actions.
 [Take a look at all effects](https://github.com/dejakob/react-native-alegrify-offline/tree/master/src/store-fx)
 
+## Automated tests
+
+To be able to run the automated tests, be sure you're using OS X as all tests use XCode.
+Before running the tests on your machine, make sure detox and the following packages are installed:
+
+```bash
+brew tap wix/brew
+brew install --HEAD applesimutils
+npm install -g detox-cli
+npm install -g react-native-cli
+```
+
 ## User Interface
 
 The User Interface has been built with components from the [react-native-alegrify-ui](https://www.npmjs.com/package/react-native-alegrify-ui) package. Take a look [here](https://dejakob.com/react-native-alegrify-ui) to read the docs.
