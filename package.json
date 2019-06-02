@@ -2,6 +2,7 @@
   "name": "AlegrifyNative",
   "version": "0.0.6",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "copy:ui": "cp -R ../react-native-alegrify-ui/lib node_modules/react-native-alegrify-ui && cp ../react-native-alegrify-ui/index.js node_modules/react-native-alegrify-ui",
