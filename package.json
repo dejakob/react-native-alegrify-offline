@@ -13,7 +13,7 @@
     "cuid": "^2.1.4",
     "i18next": "^13.0.1",
     "immutable": "^4.0.0-rc.12",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "react": "16.8.3",
     "react-native": "0.59.5",
     "react-native-alegrify-ui": "1",
